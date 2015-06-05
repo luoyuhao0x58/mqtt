@@ -2,6 +2,8 @@
 
 ---
 
+[![Build Status](https://travis-ci.org/Huozic/mqtt.svg?branch=master)](https://travis-ci.org/Huozic/mqtt)
+
 ## 用法
 
 ```python
